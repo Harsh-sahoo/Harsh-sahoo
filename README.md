@@ -2,9 +2,9 @@
 <h3>I'm a passionate Full Stack Developer from India.</h3>
 
 
-## 🙋‍♂️ About z
+## 🙋‍♂️ About me
 
-- 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭 I’m currently working on **[Stock Price Alert System](https://covid-19-tracker-e4bda.web.app/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
