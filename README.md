@@ -1,4 +1,3 @@
-<a href="https://ibb.co/XJ2JMnB"><img src="https://i.ibb.co/C010Djd/Pngtree-modern-flat-design-concept-of-5332895.png" alt="Pngtree-modern-flat-design-concept-of-5332895" border="0" width="80%" ></a>
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Harsh!](https://harshsahu.me) <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
 
