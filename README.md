@@ -1,4 +1,4 @@
-<a href="https://ibb.co/XJ2JMnB"><img src="https://i.ibb.co/C010Djd/Pngtree-modern-flat-design-concept-of-5332895.png" alt="Pngtree-modern-flat-design-concept-of-5332895" border="0"></a><br /><br />
+<a href="https://ibb.co/XJ2JMnB"><img src="https://i.ibb.co/C010Djd/Pngtree-modern-flat-design-concept-of-5332895.png" alt="Pngtree-modern-flat-design-concept-of-5332895" border="0"></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Harsh</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
