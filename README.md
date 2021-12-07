@@ -1,4 +1,4 @@
-<a href="#"><img width="60%" height="auto" src="https://i.ibb.co/C010Djd/Pngtree-modern-flat-design-concept-of-5332895.png" height="175px"/></a>
+<a href="#"><img width="60%" height="auto" src="https://i.ibb.co/C010Djd/Pngtree-modern-flat-design-concept-of-5332895.png" height="15px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Harsh</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
