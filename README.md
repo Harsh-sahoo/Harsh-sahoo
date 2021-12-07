@@ -1,4 +1,5 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Harsh!](https://harshsahu.me) <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Harsh!](https://harshsahu.me)
+<h3>I'm a passionate Full Stack Developer from India.</h3>
 
 
 ## 🙋‍♂️ About z
