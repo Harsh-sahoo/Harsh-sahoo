@@ -38,7 +38,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
+<a href="https://github.com/harsh-sahoo/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=harsh-sahoo">
 </a>
 <a href="https://github.com/harsh-sahoo?tab=followers"><img src="https://img.shields.io/github/followers/harsh-sahoo?label=Followers&style=social" alt="GitHub Badge"></a>
