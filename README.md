@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Harsh!](https://harshsahu.me)
+## Hey <img src="https://tenor.com/view/hi-gif-23520343" width="29px">, I'm [Harsh!](https://harshsahu.me)
 <h3>I'm a passionate Full Stack Developer from India.</h3>
 
 
