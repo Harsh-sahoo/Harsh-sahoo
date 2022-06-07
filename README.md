@@ -1,4 +1,4 @@
-## Hey <img src="https://tenor.com/view/wave-emoji-pixel-gif-22360220.gif" width="15px">, I'm [Harsh!](https://harshsahu.me)
+## Hey <img src="https://tenor.com/view/wave-emoji-pixel-gif-22360220.gif" height="15px" width="15px">, I'm [Harsh!](https://harshsahu.me)
 <h3>I'm a passionate Full Stack Developer from India.</h3>
 
 
